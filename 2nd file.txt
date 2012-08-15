@@ -1,0 +1,15 @@
+明天工作：
+
+github repo的创建和管理，更改内容，
+
+git pull; 
+git push;
+git commit;
+git clone;
+git status;
+git add的熟悉和使用
+
+公司github权限开通，公司库学习
+
+SSH KEY的管理，多个的使用
+
